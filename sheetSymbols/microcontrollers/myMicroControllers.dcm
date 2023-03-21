@@ -1,0 +1,42 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ARDUINO_DUE
+D DUE
+$ENDCMP
+#
+$CMP ARDUINO_MICRO
+K Arduino
+F https://content.arduino.cc/assets/Pinout-Micro_latest.pdf
+$ENDCMP
+#
+$CMP ARDUINO_NANO_33IoT
+F https://content.arduino.cc/assets/Pinout-NANO33IoT_latest.pdf
+$ENDCMP
+#
+$CMP FEATHER_32u4_LoRa
+F https://learn.adafruit.com/adafruit-feather-32u4-radio-with-lora-radio-module/overview
+$ENDCMP
+#
+$CMP FEATHER_M0_DATALOGGER
+F https://learn.adafruit.com/adafruit-feather-m0-adalogger/overview
+$ENDCMP
+#
+$CMP TRINKET_M0
+F https://learn.adafruit.com/adafruit-trinket-m0-circuitpython-arduino/overview
+$ENDCMP
+#
+$CMP Teensy3.1
+D Teensy3.1
+$ENDCMP
+#
+$CMP Trinket_3V3
+D Trinket 3.3v
+F https://learn.adafruit.com/introducing-trinket/pinouts
+$ENDCMP
+#
+$CMP Trinket_5V
+D Trinket 5v
+F https://learn.adafruit.com/introducing-trinket/pinouts
+$ENDCMP
+#
+#End Doc Library
